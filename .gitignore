@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+env/
+
+# Compiled C library
+*.dll
+*.so
+*.o
+
+# Personal data logs
+workouts.csv
+calories.csv
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
